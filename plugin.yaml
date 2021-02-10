@@ -1,0 +1,8 @@
+plugin:
+    name: 'thodin.sitemapextend::lang.plugin.name'
+    description: 'thodin.sitemapextend::lang.plugin.description'
+    author: Thodin
+    icon: icon-smile-o
+    homepage: ''
+navigation:
+permissions:
